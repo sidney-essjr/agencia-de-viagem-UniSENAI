@@ -131,3 +131,7 @@ Password: db_password
 - `dataAvaliacao` (Date): Data da avaliação.
 
 ---
+
+[Uploading Travel_Agency.postman_collection.json…]()
+
+
